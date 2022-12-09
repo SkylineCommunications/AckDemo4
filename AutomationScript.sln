@@ -32,6 +32,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Actions", "Actions", "{88FB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AckDemo4_1", "AckDemo4_1\AckDemo4_1.csproj", "{7BF6E0F4-25F0-4450-A093-B24C7CF99754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AckDemo4_1Tests", "AckDemo4_1Tests\AckDemo4_1Tests.csproj", "{B68DD018-B515-4519-A6E7-BD341FAFA649}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 		{7BF6E0F4-25F0-4450-A093-B24C7CF99754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF6E0F4-25F0-4450-A093-B24C7CF99754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF6E0F4-25F0-4450-A093-B24C7CF99754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68DD018-B515-4519-A6E7-BD341FAFA649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68DD018-B515-4519-A6E7-BD341FAFA649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68DD018-B515-4519-A6E7-BD341FAFA649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68DD018-B515-4519-A6E7-BD341FAFA649}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

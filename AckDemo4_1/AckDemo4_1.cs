@@ -53,6 +53,7 @@ using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
+
 using Skyline.DataMiner.Automation;
 
 /// <summary>
@@ -64,7 +65,7 @@ public class Script
 	/// The Script entry point.
 	/// </summary>
 	/// <param name="engine">Link with SLAutomation process.</param>
-	public void Run(Engine engine)
+	public void Run(IEngine engine)
 	{
 
 	}
